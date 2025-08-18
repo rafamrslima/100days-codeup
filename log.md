@@ -12,6 +12,6 @@ Today I learned about numeric systems, constants and the runtime package in Go, 
 
 Today I kept my studies about golang, I learned how to create and manipulate arrays, slices and maps, tested some variations of for loop and learned how to use structs. I also solved two leetcode problems using Go.
 
-### Day 3/100
+### Day 4/100
 
 Today I learned how to create functions in Go, how to return multiple values, how everything is passed by value and never by reference.
