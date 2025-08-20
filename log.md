@@ -14,3 +14,6 @@ Today I learned how to create functions in Go, how to return multiple values, ho
 
 ### Day 5/100
 Today I studied few more things about Go, I learned about 'defer', interfaces, how to use polymorphism, and I tested on my local environment some things related to pointers and memory address.
+
+### Day 6/100
+Today I learned about recursive functions, callback and pointers in Go, I also started developing a little practical project to enhance my skills in the language.
