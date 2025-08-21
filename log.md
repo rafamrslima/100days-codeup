@@ -17,3 +17,6 @@ Today I studied few more things about Go, I learned about 'defer', interfaces, h
 
 ### Day 6/100
 Today I learned about recursive functions, callback and pointers in Go, I also started developing a little practical project to enhance my skills in the language.
+
+### Day 7/100
+Today I learned about the concepts of working with JSON in Go - how to encode and decode datatypes, I searched about go modules and tested the package github.com/spf13/cobra for working with interactive CLI applications.
