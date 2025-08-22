@@ -20,3 +20,6 @@ Today I learned about recursive functions, callback and pointers in Go, I also s
 
 ### Day 7/100
 Today I learned about the concepts of working with JSON in Go - how to encode and decode datatypes, I searched about go modules and tested the package github.com/spf13/cobra for working with interactive CLI applications.
+
+### Day 8/100
+Today I learned about hashing using the package bcrypt and I started learning the theory for concurrency and paralelism with goRoutines.
