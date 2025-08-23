@@ -23,3 +23,6 @@ Today I learned about the concepts of working with JSON in Go - how to encode an
 
 ### Day 8/100
 Today I learned about hashing using the package bcrypt and I started learning the theory for concurrency and paralelism with goRoutines.
+
+### Day 9/100
+I keep learning Golang, today I saw the usage of mutex for parallel jobs, race conditions, how Go manage the threads according to the number of cpus available in the computer. I learned also how to do cross-compilation generating executable for windows from a mac for example.
