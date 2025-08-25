@@ -30,3 +30,6 @@ I keep learning Golang, today I saw the usage of mutex for parallel jobs, race c
 ### Day 10/100
 I keep learning Golang, today I watched some content about channels and I need to create some tests locally for better understanding.
 I also started a practical project for fetching crypto prices using Go.
+
+### Day 11/100
+Today I learned a bit more about channels (range, close, select). And I kept working on my practical project for fetching crypto prices, I implemented an http request to get data from api.coingecko.com and I created a interactive CLI where the user can choose which coins to fetch the price.
