@@ -33,3 +33,6 @@ I also started a practical project for fetching crypto prices using Go.
 
 ### Day 11/100
 Today I learned a bit more about channels (range, close, select). And I kept working on my practical project for fetching crypto prices, I implemented an http request to get data from api.coingecko.com and I created a interactive CLI where the user can choose which coins to fetch the price.
+
+### Day 12/100
+Today I kept studying Golang - I saw some theory about pointers, stack and heap. And I made some more changes in the coin-fetcher project, adding a table price in the console for a more friendly view.
