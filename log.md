@@ -36,3 +36,6 @@ Today I learned a bit more about channels (range, close, select). And I kept wor
 
 ### Day 12/100
 Today I kept studying Golang - I saw some theory about pointers, stack and heap. And I made some more changes in the coin-fetcher project, adding a table price in the console for a more friendly view.
+
+### Day 13/100
+Today I implemented the SaveToFile function in my coin-fetcher project in golang, with options to save the retrieved data in a csv or json file. I also learned a bit about the context package in Go which is used for cancellations or timeouts.
