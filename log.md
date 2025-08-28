@@ -39,3 +39,6 @@ Today I kept studying Golang - I saw some theory about pointers, stack and heap.
 
 ### Day 13/100
 Today I implemented the SaveToFile function in my coin-fetcher project in golang, with options to save the retrieved data in a csv or json file. I also learned a bit about the context package in Go which is used for cancellations or timeouts.
+
+### Day 14/100
+Today I learned about error handling in Go, the different usages of the log package, and how to use panic and recover keywords for managing the application flow.
