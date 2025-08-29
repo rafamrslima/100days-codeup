@@ -42,3 +42,6 @@ Today I implemented the SaveToFile function in my coin-fetcher project in golang
 
 ### Day 14/100
 Today I learned about error handling in Go, the different usages of the log package, and how to use panic and recover keywords for managing the application flow.
+
+### Day 15/100
+Today I learned about error type in Go, how to construct an error in any part of my application, and the convention for using error type as return of functions. I also learned how to create documentation of my code using godoc.
