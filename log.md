@@ -45,3 +45,6 @@ Today I learned about error handling in Go, the different usages of the log pack
 
 ### Day 15/100
 Today I learned about error type in Go, how to construct an error in any part of my application, and the convention for using error type as return of functions. I also learned how to create documentation of my code using godoc.
+
+### Day 16/100
+I keep studying golang, today I learned how to create unit tests for my projects using the standard library, and learned about the design patterns fan-in, fan-out and pool of workers.
