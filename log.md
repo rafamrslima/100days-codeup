@@ -48,3 +48,6 @@ Today I learned about error type in Go, how to construct an error in any part of
 
 ### Day 16/100
 I keep studying golang, today I learned how to create unit tests for my projects using the standard library, and learned about the design patterns fan-in, fan-out and pool of workers.
+
+### Day 17/100
+Today I practiced a bit more of coding in Go, I reviewed some content channels (receiving, sending) and synchronization of channels. And I uploaded a new leetcode solution solving the validParentheses problem using stack.
