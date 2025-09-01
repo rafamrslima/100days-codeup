@@ -51,3 +51,6 @@ I keep studying golang, today I learned how to create unit tests for my projects
 
 ### Day 17/100
 Today I practiced a bit more of coding in Go, I reviewed some content channels (receiving, sending) and synchronization of channels. And I uploaded a new leetcode solution solving the validParentheses problem using stack.
+
+### Day 18/100
+Today I had a look on common interview questions in Golang and based on that I started going deeper in some topics, the first was how Garbage collector works in go, I learned that it works based on mark-sweep strategy, it runs concurrently with goroutines and it requires just a minimal time to execute. the second topic was about slices and arrays, how slices have always an underlying array and how a new array is created when appending to a slice which has reached its maximum capacity.
