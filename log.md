@@ -54,3 +54,6 @@ Today I practiced a bit more of coding in Go, I reviewed some content channels (
 
 ### Day 18/100
 Today I had a look on common interview questions in Golang and based on that I started going deeper in some topics, the first was how Garbage collector works in go, I learned that it works based on mark-sweep strategy, it runs concurrently with goroutines and it requires just a minimal time to execute. The second topic was about slices and arrays, how slices always have an underlying array and how a new array is created when appending to a slice which has reached its maximum capacity.
+
+### Day 19/100
+Today I tested some different ways to create slices in Go using cap and len. I also created an interface and concrete implementations of that interface in order to test polymorphism.
