@@ -57,3 +57,6 @@ Today I had a look on common interview questions in Golang and based on that I s
 
 ### Day 19/100
 Today I tested some different ways to create slices in Go using cap and len. I also created an interface and concrete implementations of that interface in order to test polymorphism.
+
+### Day 20/100
+I keep studying golang, today I created some examples of functions receiving parameters like pointers, maps, slices, I took some time to understand what happens when we modify the slice or map inside the function. I also learned and tested the sync.RWMutex, which it's useful when working with concurrent programs.
