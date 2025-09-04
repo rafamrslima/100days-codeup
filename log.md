@@ -60,3 +60,6 @@ Today I tested some different ways to create slices in Go using cap and len. I a
 
 ### Day 20/100
 I keep studying golang, today I created some examples of functions receiving parameters like pointers, maps, slices, I took some time to understand what happens when we modify the slice or map inside the function. I also learned and tested the sync.RWMutex, which it's useful when working with concurrent programs.
+
+### Day 21/100
+I keep studying golang, today I searched about packages that make it possible to connect a Go application to a database, I also started a practical project where I will read messages from a service bus queue, log the messages received in a database, then create and send emails to specific recipients using goroutines.
