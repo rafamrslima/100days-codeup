@@ -63,3 +63,6 @@ I keep studying golang, today I created some examples of functions receiving par
 
 ### Day 21/100
 I keep studying golang, today I searched about packages that make it possible to connect a Go application to a database, I also started a practical project where I will read messages from a service bus queue, log the messages received in a database, then create and send emails to specific recipients using goroutines.
+
+### Day 22/100
+I keep studying golang, today I created a listener for an Azure service bus instance, the listener will be able to process multiple messages at the same time, for that I created a pool of workers that will use goroutines to process the jobs from a receiver channel. 
