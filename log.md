@@ -66,3 +66,6 @@ I keep studying golang, today I searched about packages that make it possible to
 
 ### Day 22/100
 I keep studying golang, today I created a listener for an Azure service bus instance, the listener will be able to process multiple messages at the same time, for that I created a pool of workers that will use goroutines to process the jobs from a receiver channel. 
+
+### Day 23/100
+I keep studying golang, today I learned how to validate emails and I implemented a MessagesHandler in my practical project with the goal of receiving the service bus message, validating it, saving the message in the database for reference, then triggering the email service. This project is helping me on how to structure the project and work with different packages, dealing with real life scenarios.
