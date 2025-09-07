@@ -69,3 +69,6 @@ I keep studying golang, today I created a listener for an Azure service bus inst
 
 ### Day 23/100
 I keep studying golang, today I learned how to validate emails and I implemented a MessagesHandler in my practical project with the goal of receiving the service bus message, validating it, saving the message in the database for reference, then triggering the email service. This project is helping me on how to structure the project and work with different packages, dealing with real life scenarios.
+
+### Day 24/100
+Golang Studies -> In the practical project I am building, today I implemented the code responsible for saving records into the database using the pgxpool package. I also improved the logic of creating a listener to make it run in background while waiting for messages to reach the queue. I also learned about preempt in the golang runtime and how it is important for the general performance and behaviour of the application.
