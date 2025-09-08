@@ -72,3 +72,6 @@ I keep studying golang, today I learned how to validate emails and I implemented
 
 ### Day 24/100
 Golang Studies -> In the practical project I am building, today I implemented the code responsible for saving records into the database using the pgxpool package. I also improved the logic of creating a listener to make it run in background while waiting for messages to reach the queue. I also learned about preempt in the golang runtime and how it is important for the general performance and behaviour of the application.
+
+### Day 25/100
+Golang Studies -&gt; In the practical project I am building, today I decided to save files to blob storage instead of sending emails. So I created a resource on azure, I connected my go app to the resource and created a function to upload a file to it. Now the app is able to listen to a service bus queue, create go routines that will receive and process the message, then log the info in the database and save the file (report) in a folder in azure storage.
