@@ -75,6 +75,3 @@ Golang Studies -> In the practical project I am building, today I implemented th
 
 ### Day 25/100
 Today in the practical project I am building in Go, I implemented pdf creation based on data coming from the db, so I also created a function that queries the database and converts the data retrieved to a new struct. And I also implemented the upload of the pdf to azure blob storage.
-
-### Day 25/100
-Golang Studies -&gt; In the practical project I am building, today I decided to save files to blob storage instead of sending emails. So I created a resource on azure, I connected my go app to the resource and created a function to upload a file to it. Now the app is able to listen to a service bus queue, create go routines that will receive and process the message, then log the info in the database and save the file (report) in a folder in azure storage.
