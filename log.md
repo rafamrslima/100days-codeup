@@ -78,3 +78,6 @@ Golang Studies -> In the practical project I am building, today I decided to sav
 
 ### Day 26/100
 Today in the practical project I am building in Go, I implemented pdf creation based on data coming from the db, so I also created a function that queries the database and converts the data retrieved to a new struct. And I also implemented the upload of the pdf to azure blob storage.
+
+### Day 27/100
+Golang Studies -> today in the distributor project, I fixed the validation of some input fields and I added a retry policy for the blob storage files upload.
