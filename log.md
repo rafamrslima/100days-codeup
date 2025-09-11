@@ -81,3 +81,6 @@ Today in the practical project I am building in Go, I implemented pdf creation b
 
 ### Day 27/100
 Golang Studies -> today in the distributor project, I fixed the validation of some input fields and I added a retry policy for the blob storage files upload.
+
+### Day 28/100
+Golang Studies -> Today I solved a coding challenge in leetcode about finding palindromes, I learned and practiced some important concepts of the language like how to work with slices of runes and how to convert and compare strings.
