@@ -84,3 +84,6 @@ Golang Studies -> today in the distributor project, I fixed the validation of so
 
 ### Day 28/100
 Golang Studies -> Today I solved a coding challenge in leetcode about finding palindromes, I learned and practiced some important concepts of the language like how to work with slices of runes and how to convert and compare strings.
+
+### Day 29/100
+Today I focused on studying some algorithms, especially binary search, which is common in coding challenges. I used golang in the examples.
