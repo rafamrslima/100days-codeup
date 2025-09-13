@@ -87,3 +87,6 @@ Golang Studies -> Today I solved a coding challenge in leetcode about finding pa
 
 ### Day 29/100
 Today I focused on studying some algorithms, especially binary search, which is common in coding challenges. I used golang in the examples.
+
+### Day 30/100
+I keep learning golang, today I created a web api using the native http package. The API exposes one get method that receives an id as parameter, it goes to db and retrieves some data there based on the given id, then it converts the data to json and returns it to the API caller. The API also returns bad request or not found depending on the case.
