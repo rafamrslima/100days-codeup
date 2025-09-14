@@ -90,3 +90,5 @@ Today I focused on studying some algorithms, especially binary search, which is 
 
 ### Day 30/100
 I keep learning golang, today I created a web api using the native http package. The API exposes one get method that receives an id as parameter, it goes to db and retrieves some data there based on the given id, then it converts the data to json and returns it to the API caller. The API also returns bad request or not found depending on the case.
+
+### Day 31/100
