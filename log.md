@@ -93,3 +93,6 @@ I keep learning golang, today I created a web api using the native http package.
 
 ### Day 31/100
 Today I added a readme.md to the web api and uploaded it to the github, I also dedicated some time on searching about the web3 job market in general and about the required knowledge to work as backend engineer.
+
+### Day 32/100
+Today I did a review about common questions in golang technical interviews, including topics like memory management, slices, channels, goroutines, interfaces etc.
