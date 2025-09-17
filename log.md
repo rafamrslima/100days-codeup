@@ -97,4 +97,5 @@ Today I added a readme.md to the web api and uploaded it to the github, I also d
 ### Day 32/100
 Today I did a review about common questions in golang technical interviews, including topics like memory management, slices, channels, goroutines, interfaces etc.
 
-
+### Day 33/100
+Today I learned about how to compare structs in Go, using == is enough when the structs are comparable (having just fields like boolean, string, int, pointer). But in most cases manual comparison field by field is preferred because of the clarity and good performance.
