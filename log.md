@@ -99,3 +99,6 @@ Today I did a review about common questions in golang technical interviews, incl
 
 ### Day 33/100
 Today I learned about how to compare structs in Go, using == is enough when the structs are comparable (having just fields like boolean, string, int, pointer). But in most cases manual comparison field by field is preferred because of the clarity and good performance.
+
+### Day 34/100
+Today I practiced binary search creation using Golang. I uploaded to github a function that implements a basic binary search that finds a specific number in a sequence of integers, if the number is not present I return -1.
