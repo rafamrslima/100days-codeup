@@ -102,3 +102,6 @@ Today I learned about how to compare structs in Go, using == is enough when the 
 
 ### Day 34/100
 Today I practiced binary search creation using Golang. I uploaded to github a function that implements a basic binary search that finds a specific number in a sequence of integers, if the number is not present I return -1.
+
+### Day 35/100
+Today I did a review about blockchain basics, EVM and solidity development. I also studied some content about the essential algorithms that need to be mastered in order to solve leetcode problems more efficiently.
