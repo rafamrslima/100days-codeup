@@ -105,3 +105,6 @@ Today I practiced binary search creation using Golang. I uploaded to github a fu
 
 ### Day 35/100
 Today I did a review about blockchain basics, EVM and solidity development. I also studied some content about the essential algorithms that need to be mastered in order to solve leetcode problems more efficiently.
+
+### Day 36/100
+Today I did a refactoring in the crypto-fetcher project, creating helpers in different folders in order to separate responsibilities and make the code cleaner.
