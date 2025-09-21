@@ -108,3 +108,6 @@ Today I did a review about blockchain basics, EVM and solidity development. I al
 
 ### Day 36/100
 Today I did a refactoring in the crypto-fetcher project, creating helpers in different folders in order to separate responsibilities and make the code cleaner.
+
+### Day 37/100
+Today I implemented basic jwt authentication in the crypto-fecther API by importing the jwt package into the application. I also created a basic controller and moved some code there to achieve better readability in the solution.
