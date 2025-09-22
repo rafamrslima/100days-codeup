@@ -111,3 +111,6 @@ Today I did a refactoring in the crypto-fetcher project, creating helpers in dif
 
 ### Day 37/100
 Today I implemented basic jwt authentication in the crypto-fetcher API by importing the jwt package into the application. I also created a basic controller and moved some code there to achieve better readability in the solution.
+
+### Day 38/100
+Today I studied algorithms, I took some time to review vector models and practice some coding. I Also watched youtube videos about some math concepts.
