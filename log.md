@@ -114,3 +114,6 @@ Today I implemented basic jwt authentication in the crypto-fetcher API by import
 
 ### Day 38/100
 Today I studied algorithms, I took some time to review vector models and practice some coding. I Also watched youtube videos about some math concepts.
+
+### Day 39/100
+Today I took some time to understand how GO ORM works and how it is useful when dealing with databases, I also learned about relationships and migrations.
