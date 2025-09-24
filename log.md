@@ -117,3 +117,6 @@ Today I studied algorithms, I took some time to review vector models and practic
 
 ### Day 39/100
 Today I took some time to understand how GO ORM works and how it is useful when dealing with databases, I also learned about relationships and migrations.
+
+### Day 40/100
+Today I learned more about garbage collection in Go, I saw that it's possible to define the target percent of collection and it is possible to manually trigger the GC to perform the cleanup. I also learned what memory leak is and possible causes of memory leak (keep referencing unused objects for example, caches that never expire).
