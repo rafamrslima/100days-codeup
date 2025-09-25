@@ -120,3 +120,6 @@ Today I took some time to understand how GO ORM works and how it is useful when 
 
 ### Day 40/100
 Today I learned more about garbage collection in Go, I saw that it's possible to define the target percent of collection and it is possible to manually trigger the GC to perform the cleanup. I also learned what memory leak is and possible causes of memory leak (keep referencing unused objects for example, caches that never expire).
+
+### Day 41/100
+Today I started learning Rust, I watched some content about the variable types and how to declare them as mutable, some rules about the language not allowing unused variables for example and how to create functions.
