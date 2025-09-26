@@ -125,4 +125,4 @@ Today I learned more about garbage collection in Go, I saw that it's possible to
 Today I started learning Rust, I watched some content about the variable types and how to declare them as mutable, some rules about the language not allowing unused variables for example and how to create functions.
 
 ### Day 42/100
-I keep studying rust, today I saw about concepts of ownership, borrowing and references, and control flow.
+I keep studying Rust, today I saw concepts of ownership, borrowing and references, and control flow.
