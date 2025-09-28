@@ -129,3 +129,6 @@ I keep studying Rust, today I saw concepts of ownership, borrowing and reference
 
 ### Day 43/100
 Rust studies - today I learned about statements, how is the 'return' from functions. I reviewed concepts of stack and heap memory, and I saw some examples of ownership. I also learned how Cargo is used to start a project.
+
+### Day 44/100
+Rust studies - today I started practicing coding, created examples with different data types, I learned how to use structs, traits, match and tuples.
