@@ -133,5 +133,6 @@ Rust studies - today I learned about statements, how is the 'return' from functi
 ### Day 44/100
 Rust studies - today I started practicing coding, created examples with different data types, I learned how to use structs, traits, match and tuples.
 
-
+### Day 45/100
+Rust studies - today I started practicing coding, created examples with different data types, I learned how to use structs, traits, match and tuples.
 
