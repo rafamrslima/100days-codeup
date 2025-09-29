@@ -134,5 +134,4 @@ Rust studies - today I learned about statements, how is the 'return' from functi
 Rust studies - today I started practicing coding, created examples with different data types, I learned how to use structs, traits, match and tuples.
 
 ### Day 45/100
-Rust studies - today I started practicing coding, created examples with different data types, I learned how to use structs, traits, match and tuples.
-
+Rust studies - Today I learned the basics about pointers and also some rules related to references, for example we can have at any given time only one mutable reference or any number of immutable references, this behaviour prevents data races.
