@@ -135,3 +135,6 @@ Rust studies - today I started practicing coding, created examples with differen
 
 ### Day 45/100
 Rust studies - Today I learned the basics about pointers and also some rules related to references, for example we can have at any given time only one mutable reference or any number of immutable references, this behaviour prevents data races.
+
+### Day 46/100
+Rust studies - Today I learned how to work with enums, vectors and hashmaps in Rust, I created some examples of each to see how they work in practice.
