@@ -138,3 +138,6 @@ Rust studies - Today I learned the basics about pointers and also some rules rel
 
 ### Day 46/100
 Rust studies - Today I learned how to work with enums, vectors and hashmaps in Rust, I created some examples of each to see how they work in practice.
+
+### Day 47/100
+Rust studies - Today I learned the difference between String and &str and when to use each of them, I also took a look at the setup requirements to start developing for Solana.
