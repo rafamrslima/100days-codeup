@@ -143,4 +143,4 @@ Rust studies - Today I learned how to work with enums, vectors and hashmaps in R
 Rust studies - Today I learned the difference between String and &str and when to use each of them, I also took a look at the setup requirements to start developing for Solana.
 
 ### Day 48/100
-Rust studies - Today I took some time to understand the build process in Rust, how to build for different environments and how to unit test my application using the builtin resources.
+Rust studies - Today I took some time to understand the build process in Rust and how to build for different environments, I also learned how to unit test my applications using the native rust toolchain.
