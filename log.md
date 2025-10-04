@@ -147,3 +147,6 @@ Rust studies - Today I took some time to understand the build process in Rust an
 
 ### Day 49/100
 Rust studies - Today I took a look at how async code is written in Rust using Futures.
+
+### Day 50/100
+Today I learned more about blockchain and bitcoin, PoW and PoS, hashing and signatures. I took a closer look at how bitcoin works in terms of transactions and validation, and how the mining process works.
