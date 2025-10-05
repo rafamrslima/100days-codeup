@@ -150,3 +150,6 @@ Rust studies - Today I took a look at how async code is written in Rust using Fu
 
 ### Day 50/100
 Today I learned more about blockchain and bitcoin, PoW and PoS, hashing and signatures. I took a closer look at how bitcoin works in terms of transactions and validation, and how the mining process works.
+
+### Day 51/100
+Rust Studies -> I cloned the Rustlings repository on my local env to practice programming with some exercises, so far I have solved the exercises related to variables, functions, primitive types and vectors. In parallel I am reading the Rust official book to get some concepts and examples.
