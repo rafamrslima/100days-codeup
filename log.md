@@ -153,3 +153,6 @@ Today I learned more about blockchain and bitcoin, PoW and PoS, hashing and sign
 
 ### Day 51/100
 Rust Studies -> I cloned the Rustlings repository on my local env to practice programming with some exercises, so far I have solved the exercises related to variables, functions, primitive types and vectors. In parallel I am reading the Rust official book to get some concepts and examples.
+
+### Day 52/100
+Rust Studies -> Today I did few more exercises in the rustlings repo, this time I solved the ones related to structs. I also read another part of the Rust book, this time related to structs and tuples.
