@@ -156,3 +156,6 @@ Rust Studies -> I cloned the Rustlings repository on my local env to practice pr
 
 ### Day 52/100
 Rust Studies -> Today I did few more exercises in the rustlings repo, this time I solved the ones related to structs. I also read another part of the Rust book, this time related to structs and tuples.
+
+### Day 53/100
+Rust Studies -> Today I solved the rustlings exercises related to enums. I am getting familiar with the syntax of the language, soon I plan to deep dive into solana and blockchain development using Rust.
