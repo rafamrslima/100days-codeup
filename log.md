@@ -159,3 +159,6 @@ Rust Studies -> Today I did few more exercises in the rustlings repo, this time 
 
 ### Day 53/100
 Rust Studies -> Today I solved the rustlings exercises related to enums. I am getting familiar with the syntax of the language, soon I plan to deep dive into solana and blockchain development using Rust.
+
+### Day 54/100
+Today I took a look at examples and templates of smart contracts on Solana. And I keep practicing Rust programming on RustRover.
