@@ -162,3 +162,6 @@ Rust Studies -> Today I solved the rustlings exercises related to enums. I am ge
 
 ### Day 54/100
 Today I took a look at examples and templates of smart contracts on Solana. And I keep practicing Rust programming on RustRover.
+
+### Day 55/100
+Today I solved some rustling exercises related to Strings, I also learned a bit about patterns and matching in Rust.
