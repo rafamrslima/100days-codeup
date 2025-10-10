@@ -165,3 +165,6 @@ Today I took a look at examples and templates of smart contracts on Solana. And 
 
 ### Day 55/100
 Today I solved some rustling exercises related to Strings, I also learned a bit about patterns and matching in Rust.
+
+### Day 56/100
+Today I took some time to understand more about strings in Rust and I started learning about modules by doing the rustlings exercises related to it.
