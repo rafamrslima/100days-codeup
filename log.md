@@ -171,3 +171,6 @@ Today I took some time to understand more about strings in Rust and I started le
 
 ### Day 57/100
 Today I spent some time learning about the Ethereum ecosystem, wallets, transactions, gas fees, and smart contract deployment using Remix IDE and Foundry framework.
+
+### Day 58/100
+Today I spent some time learning about the Solana ecosystem, wallets, transactions, I started watching the official Solana bootcamp on youtube.
