@@ -174,3 +174,6 @@ Today I spent some time learning about the Ethereum ecosystem, wallets, transact
 
 ### Day 58/100
 Today I spent some time learning about the Solana ecosystem, wallets, transactions, I started watching the official Solana bootcamp on youtube.
+
+### Day 59/100
+Today I studied more about the Solana structure in general, about the types of calls that can be made to the Solana public endpoints. I learned also about the types of nodes and the basic flow of a transaction in the Solana blockchain.
