@@ -179,4 +179,4 @@ Today I spent some time learning about the Solana ecosystem, wallets, transactio
 Today I studied more about the Solana structure in general, about the types of calls that can be made to the Solana public endpoints. I learned also about the types of nodes and the basic flow of a transaction in the Solana blockchain.
 
 ### Day 60/100
-Today I installed Solana locally to start working with the CLI, I created a basic wallet and added SOL in it in the devnet.
+Today I installed Solana locally to start working with the CLI, I created a basic wallet and added SOL in it in the devnet. I also learned the basics of the anchor framework to be able to initiate and deploy simple projects.
