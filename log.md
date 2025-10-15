@@ -180,3 +180,6 @@ Today I studied more about the Solana structure in general, about the types of c
 
 ### Day 60/100
 Today I installed Solana locally to start working with the CLI, I created a basic wallet and added SOL in it in the devnet. I also learned the basics of the anchor framework to be able to initiate and deploy simple projects.
+
+### Day 61/100
+Today I created my first solana program, it is a basic program that increments a counter and I deployed it on localnet. It was useful to understand some basic concepts of Solana like accounts management and how anchor helps on validating accounts before external calls interact with my on-chain code.
