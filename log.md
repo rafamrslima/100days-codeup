@@ -183,3 +183,6 @@ Today I installed Solana locally to start working with the CLI, I created a basi
 
 ### Day 61/100
 Today I created my first solana program, it is a basic program that increments a counter and I deployed it on localnet. It was useful to understand some basic concepts of Solana like accounts management and how anchor helps on validating accounts before external calls interact with my on-chain code.
+
+### Day 62/100
+Today I tried to interact with my solana program using golang and using typescript. In both cases some config is required so I am currently trying make it work.
