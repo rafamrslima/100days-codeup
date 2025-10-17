@@ -186,3 +186,6 @@ Today I created my first solana program, it is a basic program that increments a
 
 ### Day 62/100
 Today I tried to interact with my solana program using golang and using typescript. In both cases some config is required so I am currently trying to make it work.
+
+### Day 63/100
+Today I solved a few more rustlings exercises, this time the ones related to hashmaps. I plan to start building some basic Rust applications from scratch to get more familiar with language and syntax.
