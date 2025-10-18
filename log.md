@@ -189,3 +189,6 @@ Today I tried to interact with my solana program using golang and using typescri
 
 ### Day 63/100
 Today I solved a few more rustlings exercises, this time the ones related to hashmaps. I plan to start building some basic Rust applications from scratch to get more familiar with language and syntax.
+
+### Day 64/100
+Today I implemented a tic-tac-toe CLI game in Rust from scratch, it was useful for dealing with ownership and borrowing and for getting familiar with the syntax regarding vectors, hashmaps and arrays, I uploaded the code to a public repo in Github.
