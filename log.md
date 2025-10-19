@@ -192,3 +192,6 @@ Today I solved a few more rustlings exercises, this time the ones related to has
 
 ### Day 64/100
 Today I implemented a tic-tac-toe CLI game in Rust from scratch, it was useful for dealing with ownership and borrowing and for getting familiar with the syntax regarding vectors, hashmaps and arrays, I uploaded the code to a public repo in Github.
+
+### Day 65/100
+Today I installed the framework Foundry on my local environment, created an ERC20 token and deployed it locally. I also followed some tutorials on how to create programs on Solana playground. Besides that I studied some extra concepts about the Ethereum ecosystem.
