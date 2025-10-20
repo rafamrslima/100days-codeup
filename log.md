@@ -195,3 +195,6 @@ Today I implemented a tic-tac-toe CLI game in Rust from scratch, it was useful f
 
 ### Day 65/100
 Today I installed the framework Foundry on my local environment, created an ERC20 token and deployed it locally. I also followed some tutorials on how to create programs on Solana playground. Besides that I studied some extra concepts about the Ethereum ecosystem.
+
+### Day 66/100
+Today I started building the same ticatactoe game but in golang.
