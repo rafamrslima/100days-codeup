@@ -198,3 +198,6 @@ Today I installed the framework Foundry on my local environment, created an ERC2
 
 ### Day 66/100
 Today I started building the same ticatactoe game but in golang because I want more practice in the language to not forget the syntax.
+
+### Day 67/100
+Today I had some progress in the titactoe game in golang, I created the function to make selection on the board and the one to print the board in the CLI.
