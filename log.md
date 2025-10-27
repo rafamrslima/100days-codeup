@@ -201,3 +201,6 @@ Today I started building the same ticatactoe game but in golang because I want m
 
 ### Day 67/100
 Today I made some progress in the titactoe game in golang, I created the function to make selection on the board and the one to print the board in the CLI.
+
+### Day 68/100
+Today I did some rustlings exercises relted to the type Option in Rust.
