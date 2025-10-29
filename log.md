@@ -204,3 +204,6 @@ Today I made some progress in the titactoe game in golang, I created the functio
 
 ### Day 68/100
 Today I did some rustlings exercises related to the type Option in Rust.
+
+### Day 69/100
+
