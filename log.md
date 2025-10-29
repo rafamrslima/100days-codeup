@@ -206,4 +206,4 @@ Today I made some progress in the titactoe game in golang, I created the functio
 Today I did some rustlings exercises related to the type Option in Rust.
 
 ### Day 69/100
-
+Today I finished the tic tac toe game in Golang and included a readme.md with the instructions on how to run and play the game. In the next days I will focus on solidity development and the ethereum environment.
