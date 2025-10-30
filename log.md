@@ -207,3 +207,6 @@ Today I did some rustlings exercises related to the type Option in Rust.
 
 ### Day 69/100
 Today I finished the tic tac toe game in Golang and included a readme.md with the instructions on how to run and play the game. In the next days I will focus on solidity development and the ethereum environment.
+
+### Day 70/100
+Today I returned the focus to Ethereum ecosystem and Solidity. I had a look in the theory of Oracles and IPFS and learned the basic usage of each. Oracles like Chainlink for example works like a bridge to connect smart contracts to offchain data, while IPFS is a descentralized storage for web3.
