@@ -210,3 +210,6 @@ Today I finished the tic tac toe game in Golang and included a readme.md with th
 
 ### Day 70/100
 Today I returned the focus to Ethereum ecosystem and Solidity. I had a look in the theory of Oracles and IPFS and learned the basic usage of each. Oracles like Chainlink for example works like a bridge to connect smart contracts to off-chain data, while IPFS is a decentralised storage for web3.
+
+### Day 71/100
+Today I spent some time taking a look at L2 and L3 layers of Ethereum, I understood that L2 layers are basically used to make transactions cheaper and faster, then sending confirmation to Ethereum mainnet, while L3 layers are commonly used for custom performance, like gaming for example. I also took a look at the decentralized exchange Uniswap and how the liquidity pools work.
