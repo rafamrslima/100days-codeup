@@ -213,3 +213,6 @@ Today I returned the focus to Ethereum ecosystem and Solidity. I had a look in t
 
 ### Day 71/100
 Today I spent some time taking a look at L2 and L3 layers of Ethereum, I understood that L2 layers are basically used to make transactions cheaper and faster, then sending confirmation to Ethereum mainnet, while L3 layers are commonly used for custom performance, like gaming for example. I also took a look at the decentralised exchange Uniswap and how the liquidity pools work.
+
+### Day 72/100
+Today I started building a crowdfunding application for web3 that accepts donations in crypto, the idea is to build this project using solidity for the smart contract, Golang in the backend to interact with the blockchain and a minimal frontend. For now the basic functions of the contract are done.
