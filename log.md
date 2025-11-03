@@ -216,3 +216,6 @@ Today I spent some time taking a look at L2 and L3 layers of Ethereum, I underst
 
 ### Day 72/100
 Today I started building a crowdfunding application for web3 that accepts donations in crypto, the idea is to build this project using solidity for the smart contract, Golang in the backend to interact with the blockchain and a minimal frontend. For now the basic functions of the contract are done.
+
+### Day 73/100
+Today I deployed my smart contract on localhost using anvil, and generated abi and json files related to the contract so I can work on golang calling the methods in a type-safe way.
