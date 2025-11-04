@@ -219,3 +219,6 @@ Today I started building a crowdfunding application for web3 that accepts donati
 
 ### Day 73/100
 Today I deployed my smart contract on localhost using anvil, and generated abi and json files related to the contract so I can work on golang calling the methods in a type-safe way.
+
+### Day 74/100
+Today I redeployed my smart contract using a new foundry script, and I was able to connect my Go application to the smart contract running on my local blockchain.
