@@ -222,3 +222,6 @@ Today I deployed my smart contract on localhost using anvil, and generated abi a
 
 ### Day 74/100
 Today I redeployed my smart contract using a new foundry script, and I was able to connect my Go application to the smart contract running on my local blockchain.
+
+### Day 75/100
+Today I kept working on the web3 crowdfunding project, I created in golang the api with two endpoints, one for getting the campaigns and one for creating a campaign. I connected successfully the get call to my smart contract running on chain with anvil (foundry).
