@@ -225,3 +225,6 @@ Today I redeployed my smart contract using a new foundry script, and I was able 
 
 ### Day 75/100
 Today I kept working on the web3 crowdfunding project, I created in golang the api with two endpoints, one for getting the campaigns and one for creating a campaign. I successfully connected the get call to my smart contract running on-chain with anvil (Foundry).
+
+### Day 76/100
+Today I managed to create campaigns successfully from postman hitting my golang api which hits the smart contract running on my local blockchain. So far the flows for createCampaign and getCampaigns are working, and I started drafting the donateToCompaing function.
