@@ -228,3 +228,6 @@ Today I kept working on the web3 crowdfunding project, I created in golang the a
 
 ### Day 76/100
 Today I managed to create campaigns successfully from postman hitting my golang api which hits the smart contract running on my local blockchain. So far the flows for createCampaign and getCampaigns are working, and I started drafting the donateToCompaing function.
+
+### Day 77/100
+Today I worked on the web3 crowdfunding project, I successfully implemented the donation functionality, which is triggered currently on postman, hitting my golang API that sends the transaction to my smart contract on-chain.
