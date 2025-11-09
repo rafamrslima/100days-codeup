@@ -231,3 +231,6 @@ Today I managed to create campaigns successfully from postman hitting my golang 
 
 ### Day 77/100
 Today I worked on the web3 crowdfunding project, I successfully implemented the donation functionality, which is triggered currently on postman, hitting my golang API that sends the transaction to my smart contract on-chain.
+
+### Day 78/100
+Today I implemented the endpoint for creating unsigned transactions in Go, this feature will be used for gas estimation and will return a payload to the frontend for later signing and broadcast the transaction.
