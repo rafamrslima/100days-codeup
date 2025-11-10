@@ -234,3 +234,6 @@ Today I worked on the web3 crowdfunding project, I successfully implemented the 
 
 ### Day 78/100
 Today I implemented the endpoint for creating unsigned transactions in Go and implemented the gas estimation call to ethereum, this feature will be used for campaign creation and it will return a payload to the frontend for later signing and broadcast the transaction.
+
+### Day 79/100
+Crowdfunding web3 project -> today I implemented validation of fields in the Golang api and added CORS policy. I also created a basic UI with React to interact with the backend but I faced some problems in the requests.
