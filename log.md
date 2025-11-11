@@ -237,3 +237,6 @@ Today I implemented the endpoint for creating unsigned transactions in Go and im
 
 ### Day 79/100
 Crowdfunding web3 project -> today I implemented validation of fields in the Golang api and added CORS policy. I also created a basic UI with React to interact with the backend but I faced some problems in the requests.
+
+### Day 80/100
+Crowdfunding web3 project -> today I implemented a frontend in react that contains a form for the campaign data and connect to metamask wallet in the browser, the frontend sends a request to the api for building a transaction and later it uses metamask for signing and broadcasting the campaign creation confirmation.
