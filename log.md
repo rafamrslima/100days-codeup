@@ -240,3 +240,6 @@ Crowdfunding web3 project -> today I implemented validation of fields in the Gol
 
 ### Day 80/100
 Crowdfunding web3 project -> today I implemented a frontend in react that contains a form for the campaign data and connect to metamask wallet in the browser, the frontend sends a request to the api for building a transaction and later it uses metamask for signing and broadcasting the campaign creation confirmation.
+
+### Day 81/100
+Crowdfunding web3 project -> today I refactored the api endpoints and added a feature for fetching a campaign by id. In the UI I added some styling with css and error handling.
