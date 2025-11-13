@@ -243,3 +243,6 @@ Crowdfunding web3 project -> today I implemented a frontend in react that contai
 
 ### Day 81/100
 Crowdfunding web3 project -> today I refactored the api endpoints and added a feature for fetching a campaign by id. In the UI I added some styling with css and error handling.
+
+### Day 82/100
+Crowdfunding web3 project -> today I created routing in the frontend and added a campaigns page with a basic donation form.
