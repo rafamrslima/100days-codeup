@@ -249,3 +249,6 @@ Crowdfunding web3 project -> today I created routing in the frontend and added a
 
 ### Day 83/100
 Crowdfunding web3 project -> today I normalized the currency unit used through the application and I added an event indexer in golang for listening to created campaigns on-chain.
+
+### Day 84/100
+Crowdfunding web3 project -> today I added a feature in the backend that enables data saving in a postgres database, so now the backend app will listen to events in the blockchain and when a campaign is created, the app will save the event in a database.
