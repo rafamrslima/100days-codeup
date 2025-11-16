@@ -246,3 +246,6 @@ Crowdfunding web3 project -> today I refactored the api endpoints and added a fe
 
 ### Day 82/100
 Crowdfunding web3 project -> today I created routing in the frontend and added a campaigns page with a basic donation form.
+
+### Day 83/100
+Crowdfunding web3 project -> today I normalized the currency unit used through the application and I added an event indexer in golang for listening to created campaigns on-chain.
