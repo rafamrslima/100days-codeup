@@ -252,3 +252,6 @@ Crowdfunding web3 project -> today I normalized the currency unit used through t
 
 ### Day 84/100
 Crowdfunding web3 project -> today I added a feature in the backend that enables data saving in a postgres database, so now the backend app will listen to events in the blockchain and when a campaign is created, the app will save the event in a database.
+
+### Day 85/100
+Crowdfunding web3 project -> today I added an event in the contract to be emitted when a donation is received and I added a listener for this event in the backend part of the project.
