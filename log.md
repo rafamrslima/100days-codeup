@@ -255,3 +255,6 @@ Crowdfunding web3 project -> today I added a feature in the backend that enables
 
 ### Day 85/100
 Crowdfunding web3 project -> today I added an event in the contract to be emitted when a donation is received and I added a listener for this event in the backend part of the project.
+
+### Day 86/100
+Crowdfunding web3 project -> today I added the withdraw logic in the smart contract.
