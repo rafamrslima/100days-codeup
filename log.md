@@ -261,3 +261,6 @@ Crowdfunding web3 project -> today I added the withdraw logic in the smart contr
 
 ### Day 87/100
 Crowdfunding web3 project -> today I implemented the refund function in the smart contract and added the donations table in the sql db to store the donation events emitted by the smart contract on-chain.
+
+### Day 88/100
+Crowdfunding web3 project -> today I refactored the events listener to remove duplicate code and create a unified function to handle the events.
