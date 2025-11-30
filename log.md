@@ -264,3 +264,6 @@ Crowdfunding web3 project -> today I implemented the refund function in the smar
 
 ### Day 88/100
 Crowdfunding web3 project -> today I refactored the events listener to remove duplicate code and create a unified function to handle the events.
+
+### Day 89/100
+Crowdfunding web3 project -> today I created a listener for the withdraw events in the backend and I refactored some database tables.
