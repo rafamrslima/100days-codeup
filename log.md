@@ -267,3 +267,6 @@ Crowdfunding web3 project -> today I refactored the events listener to remove du
 
 ### Day 89/100
 Crowdfunding web3 project -> today I created a listener for the withdraw events in the backend and I refactored some database tables.
+
+### Day 90/100
+Today I finished a course on Cyfrin Updraft about blockchain basics where I learned more about ethereum, blockchain scalability, ZkSync and L2 rollups.
