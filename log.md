@@ -270,3 +270,6 @@ Crowdfunding web3 project -> today I created a listener for the withdraw events 
 
 ### Day 90/100
 Today I finished a course on Cyfrin Updraft about blockchain basics where I learned more about ethereum, blockchain scalability, ZkSync and L2 rollups.
+
+### Day 91/100
+Crowdfunding web3 project -> today I added a contract for mocking usdc in my local anvil, then I will set the usdc stablecoin to be the default currency in the project.
