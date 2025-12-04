@@ -273,3 +273,6 @@ Today I finished a course on Cyfrin Updraft about blockchain basics where I lear
 
 ### Day 91/100
 Crowdfunding web3 project -> today I added a contract for mocking usdc in my local anvil, then I will set the usdc stablecoin to be the default currency in the project.
+
+### Day 92/100
+Crowdfunding web3 project -> today I changed my contract to accept ERC-20 tokens as donation instead of native eth. I also modified the backend in Go to adjust for usdc campaigns.
