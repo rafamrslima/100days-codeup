@@ -276,3 +276,6 @@ Crowdfunding web3 project -> today I added a contract for mocking usdc in my loc
 
 ### Day 92/100
 Crowdfunding web3 project -> today I changed my contract to accept ERC-20 tokens as donation instead of native eth. I also modified the backend in Go to adjust for usdc campaigns.
+
+### Day 93/100
+Crowdfunding web3 project -> today I adjusted my backend and my frontend to work with usdc token instead of native eth, I added the needed approval flows for spending erc20 in the local user wallet. The campaign creation and donation flows are working, I still need to add support for different wallets and test the refund and withdraw flows.
