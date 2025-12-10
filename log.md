@@ -285,3 +285,6 @@ Crowdfunding web3 project -> today I added a side bar menu in the frontend and I
 
 ### Day 95/100
 Crowdfunding web3 project -> today I refactored the campaigns retrieval filtering by adding donations logic, I also implemented a mechanism to remove from the chain some metadata that can take some space in storage and save them off chain, I created then a table to store this temp data and when the transaction is confirmed I am adding the information all together in the database (in the future maybe I will store the metadata in the IPFS). In the frontend I added a page for listing campaigns by user, in this page I will add and test a button to make withdrawals.
+
+### Day 96/100
+Crowdfunding web3 project -> today I added an endpoint in the api to handle withdraw requests and created the functionality in the frontend to hit the api. I still need to test the flow e2e.
