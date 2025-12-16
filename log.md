@@ -291,3 +291,6 @@ Crowdfunding web3 project -> today I added an endpoint in the api to handle with
 
 ### Day 97/100
 Crowdfunding web3 project -> today I removed the nonce logic for connecting temporary metadata to campaign creation to avoid wrong nonce in some scenarios, and added a creation_id that is emitted from the chain together with the campaign data. And I did some refactoring to fix some bugs in general.
+
+### Day 98/100
+Crowdfunding web3 project -> today I added the database query to retrieve donations by account, and I added the endpoint in the controller. Later I will add the frontend page to consume this endpoint.
