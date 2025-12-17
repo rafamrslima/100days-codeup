@@ -294,3 +294,6 @@ Crowdfunding web3 project -> today I removed the nonce logic for connecting temp
 
 ### Day 98/100
 Crowdfunding web3 project -> today I added the database query to retrieve donations by account, and I added the endpoint in the controller. Later I will add the frontend page to consume this endpoint.
+
+### Day 99/100
+Crowdfunding web3 project -> today I added error handling in the frontend for displaying error messages coming from the contract in the blockchain, and I did some refactoring in the controllers, splitting them by domain.
