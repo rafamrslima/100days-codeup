@@ -299,4 +299,4 @@ Crowdfunding web3 project -> today I added the database query to retrieve donati
 Crowdfunding web3 project -> today I added error handling in the frontend for displaying error messages coming from the contract in the blockchain, and I did some refactoring in the controllers, splitting them by domain.
 
 ### Day 100/100
-Crowdfunding web3 project -> today I took some time to study about the web3 different sectors and research about possible projects to build. I also started a course on Cyfrin about Zero Knowledge proofs (ZKP).
+Today I took some time to study about the web3 different sectors and research about possible projects to build. I also started a course on Cyfrin about Zero Knowledge proofs (ZKP).
